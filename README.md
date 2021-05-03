@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi there 👋<h2> I'm Adrian, a 15 year-old developer from the Islands of Fiji. I started developing from February this year. I started with making Discourse Themes and now I am learning more and more!</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,31 +6,28 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Developing since February, 2021.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Pure Science and ChemoTech in Fiji.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning TypeScript.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Skills</h3>
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | C# | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS | Express
 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 -->
 
@@ -38,7 +35,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Ruby | C++ | Firebase | Raspberry Pi
 
 <hr>
 
