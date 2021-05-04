@@ -69,7 +69,7 @@
 
 <p align="center">
 
-<a href="https://adriank-site.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/adriankeen.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://adriankeen.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/adriankeen.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 
 <a href="mailto:adriankeen250@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adriankeen250@gmail.com-blue?style=flat-square&logo=gmail"></a>
