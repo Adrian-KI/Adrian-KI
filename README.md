@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning TypeScript.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Web Development as a hobbie/side hustle.
 
 
 
@@ -22,8 +22,7 @@
 
 - 💻 &nbsp; Python | C# | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS | Express
-
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS 
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
@@ -35,7 +34,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Ruby | C++ | Firebase | Raspberry Pi
+- 🔧 &nbsp; Ruby | C++ | Firebase | Raspberry Pi | Express
 
 <hr>
 
