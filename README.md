@@ -1,43 +1,13 @@
-### Hi there 👋<h2> I'm Adrian, a 15 year-old developer from the Islands of Fiji. I started developing from February this year. I started with making Discourse Themes and now I am learning more and more!</h2>
+Adrian here!
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+My Brain only knows these for now:
 
-<h3> 👨🏻•💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; Developing since February, 2021.
-
-- 🎓 &nbsp; Studying Pure Science and ChemoTech in Fiji.
-
-- 🌱 &nbsp; Learning TypeScript.
-
-- ✍️ &nbsp; Pursuing Web Development as a hobbie/side hustle.
-
-
-
-<h3>🛠 Skills</h3>
-
-
-
-- 💻 &nbsp; Python | C# | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NextJS | NodeJS 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Ruby | C++ | Firebase | Raspberry Pi | Express
-
-<hr>
-
+. HTML + CSS
+. JavaScript
+. Python
+. MySQL
+. Nodejs
+. Typescript ( STILL LEARNING )
 
 
 <br/><br/>
@@ -68,8 +38,6 @@
 
 <p align="center">
 
-<a href="https://adriankeen.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/adriankeen.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
 
 <a href="mailto:adriankeen250@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-adriankeen250@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
@@ -78,12 +46,4 @@
 
 
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Adrian-K1.Adrian-KI)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
 
