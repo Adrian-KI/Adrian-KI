@@ -3,10 +3,15 @@ Adrian here!
 My Brain only knows these for now:
 
 . HTML + CSS
+
 . JavaScript
+
 . Python
+
 . MySQL
+
 . Nodejs
+
 . Typescript ( STILL LEARNING )
 
 
