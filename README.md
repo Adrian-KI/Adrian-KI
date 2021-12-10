@@ -17,7 +17,7 @@ My Brain only knows these for now:
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAdrian_K&show_icons=true&theme=radical)](https://github.com/Adrian-KI)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAdrian-K&show_icons=true&theme=radical)](https://github.com/Adrian-KI)
 
 <br/>
 
