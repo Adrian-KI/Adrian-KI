@@ -116,7 +116,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/iAdrian-K"><img alt="Adrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iAdrian-K&custom_title=Adrian%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/iAdrian-K"><img alt="Adrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iAdrian-K&custom_title=Adrian's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
