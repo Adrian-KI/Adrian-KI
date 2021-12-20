@@ -2,7 +2,7 @@ Adrian here !
 
 My Brain only knows these for now:
 
-. HTML + CSS
+- HTML + CSS
 
 . JavaScript
 
