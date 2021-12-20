@@ -3,14 +3,12 @@ Adrian here !
 My Brain only knows these for now:
 
 - HTML + CSS
-
-. JavaScript
-
-. Python
-
-. Nodejs
-
-. Typescript ( STILL LEARNING )
+- JavaScript
+- Python
+- Nodejs
+- Typescript ( LEARNING )
+- VUE ( LEARNING )
+- MongoDB ( LEARNING )
 
 
 <br/><br/>
