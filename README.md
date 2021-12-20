@@ -125,7 +125,6 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  
 	<a href="mailto:adriankeen250@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/iAdrian-K"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/xmarked_me/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
