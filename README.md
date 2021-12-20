@@ -8,8 +8,6 @@ My Brain only knows these for now:
 
 . Python
 
-. MySQL
-
 . Nodejs
 
 . Typescript ( STILL LEARNING )
