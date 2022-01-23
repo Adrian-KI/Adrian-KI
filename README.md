@@ -3,100 +3,47 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pure+Science+Student;Amateur+Web+Developer;Graphics%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Student in Grade 12 with passion for Aviation, Programming, Designing, K-Pop and Travelling. I consider myself an anti-social person but that doesn't mean I am not fun to talk to. I started learning developing in the early months of 2021. Starting from Discourse themes and Discord Bots, I worked my way through the world of coding and I am very proud.</h4>
+<h4 align="center">I am a Student in Grade 12 with passion for Aviation, Programming, Designing, K-Pop and Travelling. I consider myself an anti-social person but that doesn't mean I am not fun to talk to. I started learning developing in the early months of 2021. Starting from Discourse themes and Discord Bots, I worked my way through the world of coding and I am very proud to what I come to at the timeline right now.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iAdrian-K&label=Profile%20views&color=0e75b6&style=plastic" alt="iAdrian-K" /> </p>
 
-## 🔥 Streak Stats
+## Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iAdrian-K&theme=algolia" alt="iAdrian-K"  /></p>
 
 
-## 🛠️ My Skills
+## My Skills
+- HTML + CSS
+- JavaScript 
+- Python
+- MySQL
 
-### 👉 Programming languages
+## Currently Learning 
+- NodeJS (w/ Express)
+- React and Redux
+- EJS
+- MongoDB
+- Windows
 
-<p align="left"> 
- 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-</p>
+## To Learn Later
+- TypeScript
+- Docker
+- C# (w/ Xamarin)
+- Go
+- C++ with Unreal Engine
+- Next.js
+- PHP
+- Perl
+- Julia
+- Kotlin
+- Java
+- Ionic
+- Ruby
+- DO and AWS
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-</p>
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## Github Stats (Expand to View) 
 
 
 <details> 
@@ -114,27 +61,13 @@
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b> Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/iAdrian-K"><img alt="Adrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iAdrian-K&custom_title=Adrian's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
 
-<br/>
-
-## � Let's Connect
-<p align="center">
-	<a href="mailto:adriankeen250@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/iAdrian-K"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/xmarked_me/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	
-</p>
-
-<hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 21/12/2021
 
 
 
