@@ -46,7 +46,7 @@
 ## Github Stats (Expand to View) 
 
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -57,16 +57,15 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 
 
-<details>
+
+
   <summary><b> Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/iAdrian-K"><img alt="Adrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iAdrian-K&custom_title=Adrian's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-</details>
 
 
 
