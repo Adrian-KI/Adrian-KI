@@ -29,7 +29,7 @@
 - Docker
 - C# (w/ Xamarin)
 - Go
-- C++ with Unreal Engine
+- C++ (w/ Unreal Engine)
 - Next.js
 - PHP
 - Perl
