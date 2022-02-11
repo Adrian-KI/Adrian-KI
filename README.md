@@ -22,23 +22,16 @@
 - React and Redux
 - EJS
 - MongoDB
-- Windows
 
 ## To Learn Later
 - TypeScript
-- Docker
+- Flutter & Dart
 - C# (w/ Xamarin)
 - Go
 - C++ (w/ Unreal Engine)
 - Next.js
 - PHP
-- Perl
-- Julia
-- Kotlin
-- Java
-- Ionic
-- Ruby
-- DO and AWS
+
 
 
 <br/>
