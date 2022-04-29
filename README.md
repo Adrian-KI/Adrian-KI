@@ -14,11 +14,12 @@
 ## My Skills
 - HTML + CSS
 - JavaScript 
+- NodeJS (w/ Express)
 - Python
 - MySQL
 
 ## Currently Learning 
-- NodeJS (w/ Express)
+- Next.js
 - React and Redux
 - EJS
 - MongoDB
@@ -29,7 +30,6 @@
 - C# (w/ Xamarin)
 - Go
 - C++ (w/ Unreal Engine)
-- Next.js
 - PHP
 
 
