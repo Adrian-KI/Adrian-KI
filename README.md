@@ -17,10 +17,10 @@
 - NodeJS (w/ Express)
 - Python
 - MySQL
+- React and Redux
 
 ## Currently Learning 
 - Next.js
-- React and Redux
 - EJS
 - MongoDB
 
